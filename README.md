@@ -6,10 +6,6 @@
 
 <br/><br/>
 
-<img src="assets/trading-banner.svg" width="100%" alt="Live trading terminal animation" />
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+booting_trading_engine...+%E2%9C%93;%3E+compiling_full_stack_systems...+%E2%9C%93;%3E+model.fit(market_data)+%E2%9C%93;%3E+status%3A+building+relentlessly_" alt="Typing SVG" />
 
 <br/>
@@ -59,21 +55,12 @@
 
 ## `📊` Live Market — My Skill Chart
 
-```text
-   Skill Value
-   100 |                                            ▄▄▄█  Trading Systems
-    90 |                                      ▄▄▄████
-    80 |                            ▄▄▄▄███████         Backend / APIs
-    70 |                    ▄▄▄███████
-    60 |            ▄▄▄██████                            AI / ML
-    50 |     ▄▄▄████
-    40 | ▄▄███                                            Automation
-       └─────────────────────────────────────────────► Time
-         2021    2022    2023    2024    2025    2026
-```
-
 <div align="center">
+
+<img src="assets/trading-banner.svg" width="100%" alt="Live trading terminal animation" />
+
 <sub>📈 Long-term uptrend. No stop-loss on curiosity.</sub>
+
 </div>
 
 ---
@@ -188,5 +175,7 @@ class MohammadShadab:
 + response_time: fast — usually within 24h
 ! not available for: downtime
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:0a3d2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:0a3d2e,100:0d1117&height=120&section=footer" width="100%"/>
