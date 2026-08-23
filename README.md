@@ -6,6 +6,10 @@
 
 <br/><br/>
 
+<img src="assets/trading-banner.svg" width="100%" alt="Live trading terminal animation" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+booting_trading_engine...+%E2%9C%93;%3E+compiling_full_stack_systems...+%E2%9C%93;%3E+model.fit(market_data)+%E2%9C%93;%3E+status%3A+building+relentlessly_" alt="Typing SVG" />
 
 <br/>
