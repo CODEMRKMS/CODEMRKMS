@@ -1,116 +1,188 @@
 <div align="center">
-  <img src="https://github.com/CODEMRKMS.png" width="180" height="180" alt="Profile Picture" style="border-radius:50%; border: 3px solid #2dd4bf; box-shadow: 0 0 25px rgba(45, 212, 191, 0.35);" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:2dd4bf&height=220&section=header&text=MOHAMMAD%20SHADAB&fontSize=46&fontColor=2dd4bf&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Trading%20Systems%20%7C%20AI%20Builder&descAlignY=58&descSize=18&descColor=e5e7eb" width="100%"/>
+
+<img src="https://github.com/CODEMRKMS.png" width="150" height="150" alt="Profile Picture" style="border-radius:50%; border: 4px solid #2dd4bf; box-shadow: 0 0 35px rgba(45, 212, 191, 0.55);" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+booting_trading_engine...+%E2%9C%93;%3E+compiling_full_stack_systems...+%E2%9C%93;%3E+model.fit(market_data)+%E2%9C%93;%3E+status%3A+building+relentlessly_" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/CODEMRKMS"><img src="https://img.shields.io/badge/GitHub-CODEMRKMS-0d1117?style=for-the-badge&logo=github&logoColor=2dd4bf&labelColor=000000" /></a>
+<a href="mailto:itskmshadab@gmail.com"><img src="https://img.shields.io/badge/Email-itskmshadab%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4d4d&labelColor=000000" /></a>
+<a href="https://github.com/CODEMRKMS?tab=repositories"><img src="https://img.shields.io/badge/Repositories-14-0d1117?style=for-the-badge&logo=git&logoColor=facc15&labelColor=000000" /></a>
+<img src="https://komarev.com/ghpvc/?username=CODEMRKMS&style=for-the-badge&color=2dd4bf&labelColor=000000" />
+
 </div>
 
-<h1 align="center" style="color:#e5e7eb; font-size:32px; letter-spacing:1px; margin-bottom:8px;">
-  Mohammad Shadab
-</h1>
-
-<p align="center">
-  <a href="https://github.com/CODEMRKMS">
-    <img src="https://img.shields.io/badge/GitHub-CODEMRKMS-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:itskmshadab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-itskmshadab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/CODEMRKMS?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-14-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=2dd4bf&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Trading+Systems+Builder;Backend+%7C+Automation+%7C+AI;Problem+Solver+%7C+Performance+Driven" />
-</p>
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Algorithmic+Thinking-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-Web+%7C+Python+%7C+DS-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mode-Coding+%26+Building-ef4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/MARKET-BULLISH-22c55e?style=flat-square&logo=trendup" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-2dd4bf?style=flat-square" />
+  <img src="https://img.shields.io/badge/BUILD-PASSING-22c55e?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/COFFEE-CONSUMED-6f4e37?style=flat-square&logo=buymeacoffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/MODE-SHIP%20FAST-ef4444?style=flat-square" />
 </div>
 
 ---
 
-## Terminal Overview
+<div align="center">
 
-```bash
-$ whoami
-Mohammad Shadab
+### `~/shadab % cat terminal.log`
 
-$ role
-Full-Stack Developer / Problem Solver / Builder
+</div>
 
-$ focus
-Web Apps, Automation, Data, AI, Performance, Systems
+```yaml
+┌──────────────────────────────────────────────────────────────┐
+│  root@CODEMRKMS:~# whoami                                     │
+│  > Mohammad Shadab — Full-Stack Developer & Systems Builder   │
+│                                                                │
+│  root@CODEMRKMS:~# ps -ef | grep passion                      │
+│  > Trading Automation      [RUNNING]   pid 1001                │
+│  > Full-Stack Engineering  [RUNNING]   pid 1002                │
+│  > AI / ML Experiments     [RUNNING]   pid 1003                │
+│  > Sleep Schedule          [KILLED]    pid 000X                │
+│                                                                │
+│  root@CODEMRKMS:~# uptime                                     │
+│  > shipping since day one, still climbing 📈                  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## About Me
-
-I build software with a product mindset and a systems approach — strong on clean architecture, backend logic, problem-solving, and execution.
-
-- 💻 Full-stack development and scalable web apps
-- 📈 Trading, automation, and data-driven thinking
-- 🤖 AI/ML, scripting, and workflow optimization
-- 🔧 Passion for building efficient, practical solutions
-- 🌱 Constantly learning, iterating, and shipping
-
----
-
-## Core Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-Python-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Shell%2FBash-10b981?style=for-the-badge" />
-</p>
-
----
-
-## Featured Projects
-
-- [priv](https://github.com/CODEMRKMS/priv)
-- [CODEMRKMS.github.io](https://github.com/CODEMRKMS/CODEMRKMS.github.io)
-- [ALGOKAMAI](https://github.com/CODEMRKMS/ALGOKAMAI)
-- [ai-based-proctured-mobile-application](https://github.com/CODEMRKMS/ai-based-proctured-mobile-application)
-- [amzn-hackon](https://github.com/CODEMRKMS/amzn-hackon)
-- [amazon](https://github.com/CODEMRKMS/amazon)
-- [VAKEEL.ai](https://github.com/CODEMRKMS/VAKEEL.ai)
-- [os-lab-manual](https://github.com/CODEMRKMS/os-lab-manual)
-- [dbms](https://github.com/CODEMRKMS/dbms)
-- [ds-lab](https://github.com/CODEMRKMS/ds-lab)
-- [hackathon](https://github.com/CODEMRKMS/hackathon)
-- [demo](https://github.com/CODEMRKMS/demo)
-- [BANDIT-WRITEUP-CODEMRKMS](https://github.com/CODEMRKMS/BANDIT-WRITEUP-CODEMRKMS)
-- [Crypt-pico](https://github.com/CODEMRKMS/Crypt-pico)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CODEMRKMS&show_icons=true&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CODEMRKMS&theme=dark&hide_border=true&ring=2dd4bf&fire=f97316&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=2dd4bf" />
-</div>
-
----
-
-## Connect
-
-- GitHub: [@CODEMRKMS](https://github.com/CODEMRKMS)
-- Email: [itskmshadab@gmail.com](mailto:itskmshadab@gmail.com)
-- Portfolio: [GitHub Repositories](https://github.com/CODEMRKMS?tab=repositories)
+## `📊` Live Market — My Skill Chart
 
 ```text
-status: available for projects, collaborations, and opportunities
+   Skill Value
+   100 |                                            ▄▄▄█  Trading Systems
+    90 |                                      ▄▄▄████
+    80 |                            ▄▄▄▄███████         Backend / APIs
+    70 |                    ▄▄▄███████
+    60 |            ▄▄▄██████                            AI / ML
+    50 |     ▄▄▄████
+    40 | ▄▄███                                            Automation
+       └─────────────────────────────────────────────► Time
+         2021    2022    2023    2024    2025    2026
 ```
 
+<div align="center">
+<sub>📈 Long-term uptrend. No stop-loss on curiosity.</sub>
+</div>
+
+---
+
+## `⚡` About Me
+
+```python
+class MohammadShadab:
+    def __init__(self):
+        self.role       = "Full-Stack Developer / Trading Systems Builder"
+        self.stack      = ["JavaScript", "TypeScript", "Python", "Java"]
+        self.focus      = ["Web Apps", "Automation", "AI/ML", "Algo Trading"]
+        self.mindset    = "Product-first, systems-driven, execution-obsessed"
+
+    def current_status(self):
+        return "🟢 Building, shipping, iterating — always in the market."
+```
+
+- 💻 **Full-stack development** — scalable, production-grade web apps
+- 📈 **Trading & automation** — algorithmic thinking meets clean code
+- 🤖 **AI/ML & scripting** — smart workflows, less manual grind
+- 🔧 **Systems mindset** — clean architecture over quick hacks
+- 🌱 **Always learning** — shipping fast, iterating faster
+
+---
+
+## `🧠` Tech Stack — Order Book
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,mysql,git,github,vscode,linux,bash,figma,docker&theme=dark&perline=8" />
+
+</div>
+
+<div align="center">
+
+| Layer | Tools |
+|---|---|
+| 🖥️ **Frontend** | React · TypeScript · JavaScript · HTML5 · CSS3 |
+| ⚙️ **Backend** | Node.js · Python · Java · REST APIs |
+| 🗄️ **Data** | MySQL · Data Structures & Algorithms |
+| 🤖 **AI / ML** | Python · Model Building · Automation Pipelines |
+| 📈 **Trading** | Algorithmic Strategy Design · Market Data Automation |
+| 🔧 **Tooling** | Git · Bash · Shell Scripting · Linux |
+
+</div>
+
+---
+
+## `🚀` Featured Projects — Portfolio Holdings
+
+<div align="center">
+
+<a href="https://github.com/CODEMRKMS/ALGOKAMAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMRKMS&repo=ALGOKAMAI&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=22c55e&text_color=e5e7eb&bg_color=0d1117" /></a>
+<a href="https://github.com/CODEMRKMS/VAKEEL.ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMRKMS&repo=VAKEEL.ai&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=22c55e&text_color=e5e7eb&bg_color=0d1117" /></a>
+
+<a href="https://github.com/CODEMRKMS/ai-based-proctured-mobile-application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMRKMS&repo=ai-based-proctured-mobile-application&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=22c55e&text_color=e5e7eb&bg_color=0d1117" /></a>
+<a href="https://github.com/CODEMRKMS/amzn-hackon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CODEMRKMS&repo=amzn-hackon&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=22c55e&text_color=e5e7eb&bg_color=0d1117" /></a>
+
+</div>
+
+<div align="center">
+<sub>More holdings in the portfolio → <a href="https://github.com/CODEMRKMS?tab=repositories">full repository list</a></sub>
+</div>
+
+---
+
+## `📈` GitHub Analytics — Performance Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CODEMRKMS&show_icons=true&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=22c55e&text_color=e5e7eb&bg_color=0d1117&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CODEMRKMS&theme=dark&hide_border=true&ring=2dd4bf&fire=f97316&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=2dd4bf&background=0d1117" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMRKMS&layout=compact&theme=github_dark&hide_border=true&title_color=2dd4bf&text_color=e5e7eb&bg_color=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CODEMRKMS&theme=darkhub&no-frame=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+## `🐍` Contribution Activity — The Grind Never Stops
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution graph snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## `📡` Connect — Open Channels
+
+<div align="center">
+
+<a href="https://github.com/CODEMRKMS"><img src="https://img.shields.io/badge/GitHub-Follow-2dd4bf?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="mailto:itskmshadab@gmail.com"><img src="https://img.shields.io/badge/Email-Message-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+```diff
++ status: available for projects, collaborations, and opportunities
++ response_time: fast — usually within 24h
+! not available for: downtime
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:0a3d2e,100:0d1117&height=120&section=footer" width="100%"/>
