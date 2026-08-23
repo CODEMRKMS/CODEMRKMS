@@ -33,23 +33,9 @@
 
 ### `~/shadab % cat terminal.log`
 
-</div>
+<img src="photo-binary.svg" width="100%" alt="Portrait rendered in binary, printing terminal-style" />
 
-```yaml
-┌──────────────────────────────────────────────────────────────┐
-│  root@CODEMRKMS:~# whoami                                     │
-│  > Mohammad Shadab — Full-Stack Developer & Systems Builder   │
-│                                                                │
-│  root@CODEMRKMS:~# ps -ef | grep passion                      │
-│  > Trading Automation      [RUNNING]   pid 1001                │
-│  > Full-Stack Engineering  [RUNNING]   pid 1002                │
-│  > AI / ML Experiments     [RUNNING]   pid 1003                │
-│  > Sleep Schedule          [KILLED]    pid 000X                │
-│                                                                │
-│  root@CODEMRKMS:~# uptime                                     │
-│  > shipping since day one, still climbing 📈                  │
-└──────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
