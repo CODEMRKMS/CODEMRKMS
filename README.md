@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="assets/trading-banner.svg" width="100%" alt="Live trading terminal animation" />
+<img src="trading-banner.svg" width="100%" alt="Live trading terminal animation" />
 
 <sub>📈 Long-term uptrend. No stop-loss on curiosity.</sub>
 
@@ -175,7 +175,5 @@ class MohammadShadab:
 + response_time: fast — usually within 24h
 ! not available for: downtime
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:0a3d2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:0a3d2e,100:0d1117&height=120&section=footer" width="100%"/>
